@@ -1,1 +1,5 @@
+#Files
+.gitignore
+
+#Directories
 node_modules
